@@ -4,11 +4,12 @@ This is an open-source project repo deals with extracting the pictures of the ce
 # objective
 The goal of this project is to develop a model that can classify the picture of the celecbrity. This involves preprocessing the picture and croping the picture. With the help of the cropped pictures we train the model along with the wavelet transform images.
 # Task
-The preprocessing is done in the following steps
-1. Detect face and eyes
-2. Crop the facial region of the image
-3. Use wavelet transform as a feature for traning our model
-4. Load image, detect face. If eyes >=2, then save and crop the face region
+1. Data Preprocessing: This task involves cleaning and preparing the image.
+   The preprocessing is done in the following steps
+     1. Detect face and eyes
+     2. Crop the facial region of the image
+     3. Use wavelet transform as a feature for traning our model
+     4. Load image, detect face. If eyes >=2, then save and crop the face region
 
 
 # Technologies used in this project
