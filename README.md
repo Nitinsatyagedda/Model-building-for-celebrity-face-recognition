@@ -7,6 +7,7 @@ Technologies used in this project,
 3. Matplotlib & Seaborn for data visualization
 4. Sklearn for model building
 5. Jupyter notebook as IDE
+
 We have done the preprocessing in the following steps
 1. Detect face and eyes
 2. Crop the facial region of the image
