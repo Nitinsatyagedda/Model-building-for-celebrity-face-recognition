@@ -6,6 +6,7 @@ We restrict classification to only 5 people,
 3. Virat Kohli
 4. Roger Federer
 5. Lionel Messi
+
 Technologies used in this project,
 
 1. Python
