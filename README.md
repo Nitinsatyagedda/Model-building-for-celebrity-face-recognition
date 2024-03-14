@@ -1,5 +1,5 @@
 # Model-building-for-celebrity-face-recognition
-This is an open-source project repo deals with extracting the pictures of the celebrity from the google as a sample dataset, preprocesssing like cleaning the image using openCV.
+This is an open-source project repo deals with extracting the pictures of the celebrity from the google as a sample dataset, preprocesssing like cleaning the image using openCV, model building and model evaluation.
 
 # objective
 The goal of this project is to develop a model that can classify the picture of the celebrity. This involves preprocessing the picture and croping the picture. With the help of the cropped pictures we train the model along with the wavelet transform images.
